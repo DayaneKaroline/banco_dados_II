@@ -2,7 +2,7 @@ create table turmas_dayanek(
 id int primary key identity(1,1),
 nome varchar(100) not null,
 turno varchar(20) not null
-)
+)0
 
 create table professores_dayanek(
 id int primary key identity(1,1),
